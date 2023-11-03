@@ -43,7 +43,7 @@ function Projects() {
             <p><b>Back-end : </b> NodeJS, Express, MongoDB</p>
             <p>
               <b>Front-end Source Code : </b>
-              <a href="https://github.com/Mohammed-Imran-Khan/task-42-a.git" target='_blank' rel="noopener noreferrer">Github/my contact/Frontend</a>
+              <a href="https://github.com/Mohammed-Imran-Khan/to_do-front" target='_blank' rel="noopener noreferrer">Github/my contact/Frontend</a>
             </p>
             <p>
               <b>Back-end Source Code : </b>
@@ -51,7 +51,7 @@ function Projects() {
             </p>
             <p>
               <b>Deployment URL : </b>
-              <a href="https://task-42-a.vercel.app/" target='_blank' rel="noopener noreferrer">Contact/Deployment</a>
+              <a href="https://to-do-front-sigma.vercel.app/" target='_blank' rel="noopener noreferrer">Contact/Deployment</a>
             </p>
             <p>
               <b>Deployment URL Backend : </b>
